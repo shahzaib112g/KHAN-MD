@@ -7,22 +7,39 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/JawadTechXD/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadTechXD?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/JawadTechXD/KHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadTechXD/KHAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/JawadTechXD/KHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadTechXD/KHAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/JawadTechXD/KHAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadTechXD/KHAN-MD?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/JawadTechXD/KHAN-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+
+---
+
+## 📊 Project Stats
+
+<div align="center">
+
+| Statistic | Badge |
+|-----------|-------|
+| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=JawadTechXD&label=Profile+Views&color=9D00FF&style=flat-square"> |
+| **Last Update** | <img src="https://img.shields.io/github/last-commit/JawadTechXD/KHAN-MD?color=9D00FF&label=Last+Update&style=flat-square"> |
+| **Repo Size** | <img src="https://img.shields.io/github/repo-size/JawadTechXD/KHAN-MD?color=9D00FF&label=Repo+Size&style=flat-square"> |
+| **Stars** | <img src="https://img.shields.io/github/stars/JawadTechXD/KHAN-MD?color=9D00FF&label=Stars&style=flat-square"> |
+| **Forks** | <img src="https://img.shields.io/github/forks/JawadTechXD/KHAN-MD?color=9D00FF&label=Forks&style=flat-square"> |
+| **Visitors** | <img src="https://visitor-badge.laobi.icu/badge?page_id=JawadTechXD.KHAN-MD&style=flat-square&color=9D00FF"> | 
+| **Maintained** | <img src="https://img.shields.io/badge/Maintained-Yes-00C853?style=flat-square"> |
+| **Version** | <img src="https://img.shields.io/badge/Version-1.0.0-0D47A1?style=flat-square"> |
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
-</p>
+---
 
 > **Current Bot Version `5.0.0`**  
 
 ---
 
-*Dont forget to fork & star repo*
+## Support JawadTechXD
+
+<p align="center">
+  <a href="https://github.com/JawadTechXD">
+    <img src="https://img.shields.io/badge/_Follow_Us_Now-Jawad_TechX-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
+  </a>
+</p>
 
 ---
 
@@ -84,24 +101,35 @@
   <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
-## 📡 DEPLOYMENT OPTIONS
 
-<div align="center">
+---
+
+## ☁️ Deployment Options
+
+<p align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <th>Platform</th>
+      <th>Deploy Button</th>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td>Heroku</td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-MD"><img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku"></a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td>Koyeb</td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/KHAN-MD&ports=3000"><img src="https://img.shields.io/badge/Deploy_to-Koyeb-121212?style=for-the-badge&logo=koyeb"></a></td>
+    </tr>
+    <tr>
+      <td>Railway</td>
+      <td><a href="https://railway.app/new"><img src="https://img.shields.io/badge/Deploy_to-Railway-0B0D0E?style=for-the-badge&logo=railway"></a></td>
+    </tr>
+    <tr>
+      <td>Render</td>
+      <td><a href="https://dashboard.render.com/web/new"><img src="https://img.shields.io/badge/Deploy_to-Render-46E3B7?style=for-the-badge&logo=render"></a></td>
     </tr>
   </table>
-</div>
+</p>
 
 <table align="center">
   <tr>
@@ -113,19 +141,14 @@
   </tr>
 </table>  
 
-<div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
-</div>
-
 ## 🌟 BOT FEATURES
 
-```bash
 ✦ Antidelete, Antiviewonce, Antilink
 ✦ High speed YT, Tiktok, FB, IG Downloaders
 ✦ 10+ AI models + Image anlysis AI
 ✦ Fast low latensie, Powerful
 ✦ Futuristic Cool ICY UI
-```
+
 
 <div align="center">
   <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
@@ -150,9 +173,12 @@
   <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
-</div>
+### 📜 Terms of Use
+
++ Strictly NOT FOR SALE
++ No unauthorized copying/distribution
++ Credit must be given when using/modifying
+
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
@@ -176,3 +202,7 @@
 <div align="center">
   <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
+
+  <h3> Thank you for visiting ❤️ </h3>
+</p>
+
