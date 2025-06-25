@@ -108,13 +108,6 @@
       "value": "true"
       
     },
-
-     "ANTI_LINK_KICK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "false"
-      
-    },
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
@@ -190,12 +183,12 @@
     },
 
     "WELCOME": {
-      "description": "make it true if want goodbye and welcome message in groups.",
+      "description": "make it true if want welcome message in groups.",
       "required": false,
       "value": "false"
     },
-    
-        "GOODBYE": {
+
+    "GOODBYE": {
       "description": "make it true if want goodbye message in groups.",
       "required": false,
       "value": "false"
